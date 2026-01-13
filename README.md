@@ -5,7 +5,7 @@ This is a verified smart contract deployed on the Pharos Atlantic Testnet. It ac
 
 ## Technical Details
 - **Network:** Pharos Atlantic Testnet
-- **Contract Address:** [PASTE YOUR CONTRACT ADDRESS HERE]
+- **Contract Address:** [0xa2B07C8aD43e261F40b2098afE11B61CA430d29d]
 - **Compiler:** Solidity 0.8.24
 - **License:** MIT
 
