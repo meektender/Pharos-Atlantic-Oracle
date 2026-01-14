@@ -1,4 +1,4 @@
-# Pharos Atlantic Oracle Project 🚀
+![Pharos Network](https://img.shields.io/badge/Network-Pharos_Atlantic-blue) ![Status](https://img.shields.io/badge/Status-Verified-green) ![Version](https://img.shields.io/badge/Version-3.0_Risk_Weighted-orange)# Pharos Atlantic Oracle Project 🚀
 
 ### 👨‍💻 Developer meektender
 - **Role:** Smart Contract Architect (Season 3)
