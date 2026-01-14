@@ -1,13 +1,24 @@
-## Pharos Atlantic Oracle (Season 3)
+# Pharos Atlantic Oracle Project 🚀
 
-## Overview
-This is a verified smart contract deployed on the Pharos Atlantic Testnet. It acts as a Manual Price Oracle, allowing a developer to report and compare prices between ZentraFi and FaroSwap.
+### 👨‍💻 Developer: [meektender]
+Active Builder | Pharos Atlantic Season 3 (2026)
 
-## Technical Details
-- **Network:** Pharos Atlantic Testnet
-- **Contract Address:** [0xa2B07C8aD43e261F40b2098afE11B61CA430d29d]
-- **Compiler:** Solidity 0.8.24
-- **License:** MIT
+---
 
-## Motivation
-Built to demonstrate on-chain data management and state updates during the Pharos Season 3 Builder track.
+## 📍 Current Version: V2.0 (Historical Oracle)
+**Status:** Live & Verified  
+**Contract Address:** `[0x460861776A345d59c3acC2ef9b888f9d8760F929]`
+
+**Key Features:**
+- **Historical Tracking:** Stores an array of up to 10 previous price reports.
+- **Trend Analysis:** Allows users to query `getReport(index)` to see price movement.
+- **Security:** Integrated `onlyOwner` access control for price updates.
+
+---
+
+## 🕒 Legacy Version: V1.0 (Basic Oracle)
+**Status:** Deprecated  
+**Contract Address:** `[0xa2B07C8aD43e261F40b2098afE11B61CA430d29d]`
+
+**Overview:**
+The initial proof-of-concept for the Pharos Oracle. Successfully demonstrated single-point price reporting and contract verification on Pharoscan.
